@@ -6,7 +6,15 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently study at [Wikrama 1 Garut Vocational School](https://smkwikrama1garut.sch.id/)<br><br>- 🌱 I’m currently learning **Fullstack Development**<br><br>- 👨‍💻 All of my projects are available at [adenrm.github.io](adenrm.github.io)<br><br>- 📫 How to reach me **aden315208@gmail.com**<br><br>- ⚡ Fun fact **Programming is my LIFE!!**</p>
+- 🔭 I’m currently study at [Wikrama 1 Garut Vocational School](https://smkwikrama1garut.sch.id/)
+
+- 🌱 I’m currently learning **Fullstack Development**
+
+- 👨‍💻 All of my projects are available at [adenrm.github.io](adenrm.github.io)
+
+- 📫 How to reach me **aden315208@gmail.com**
+
+- ⚡ Fun fact **Programming is my LIFE!!**
 
 ###
 
