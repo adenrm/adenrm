@@ -1,4 +1,4 @@
-<img src="name.svg">
+<img src="myname.svg">
 <h3 align="center">A #KutaiIdaman Scholarship Students</h3>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
