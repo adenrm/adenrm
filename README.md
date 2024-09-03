@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aden Ragil Masrendra</h1>
-
-###
 
 <h3 align="center">A #KutaiIdaman Scholarship Students</h3>
 
