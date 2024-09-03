@@ -1,5 +1,5 @@
 <img src="name.svg">
-<h3 align="center">A #KutaiIdaman Scholarship Students</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7F7F7&width=435&lines=A+%23KutaiIdaman+Scholarship+Students;Study+At+SMK+Wikrama+1+Garut;Majoring+at+Software+And+Game+Development;CODING+IS+MY+LIFE)](https://git.io/typing-svg)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
