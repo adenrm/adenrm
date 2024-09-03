@@ -1,7 +1,12 @@
 <img src="name.svg">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7F7F7&width=435&lines=A+%23KutaiIdaman+Scholarship+Students;Study+At+SMK+Wikrama+1+Garut;Majoring+at+Software+And+Game+Development;CODING+IS+MY+LIFE)](https://git.io/typing-svg)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00F7F0&center=true&vCenter=true&width=435&lines=%23KutaiIdaman+Scholarship;CODING+IS+MY+LIFE" alt="Typing SVG" /></a>
+</p>
+
+###
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const id = {
@@ -32,12 +37,13 @@ const id = {
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adenrm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adenrm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=adenrm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adenrm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=adenrm&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adenrm&radius=16&theme=tokyo-night&area=true&order=5&bg_color=0000&line=ffff&point=fffff" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
-
 <div align="center">
   <a href="https://open.spotify.com/user/ddgil4b1wj6622hi70spns3ie">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ddgil4b1wj6622hi70spns3ie&count=4&unique=true" alt="Spotify recently played"  />
