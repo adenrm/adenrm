@@ -1,19 +1,23 @@
 
 <h3 align="center">A #KutaiIdaman Scholarship Students</h3>
 
-###
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m currently study at [Wikrama 1 Garut Vocational School](https://smkwikrama1garut.sch.id/)
-
-- 🌱 I’m currently learning **Fullstack Development**
-
-- 👨‍💻 All of my projects are available at [adenrm.github.io](adenrm.github.io)
-
-- 📫 How to reach me **aden315208@gmail.com**
-
-- ⚡ Fun fact **Programming is my LIFE!!**
-
-###
+```javascript
+const id = {
+  pronouns: "he" | "him",
+  code: [ C++, HTML, CSS, PHP, Javascript, Python, NodeJS, Git, Flutter, Unity, Laravel ],
+  architecture: ["microservices", "design system pattern"],
+  school: {
+                        name: "Wikrama 1 Garut Vocational School",
+                        town: "Garut",
+                        mentor: ["Ahmad Istakim, A.Md.Kom S.Kom", "Arie Maulana", "Ardiansyah"],
+                        major: "Software And Game Development"
+                      },
+   hardSkill: ["Fullstack Developer", "Data Analytics", "Game Developer"]
+   softSkill: ["Problem Solving", "Public Speaking"]
+}
+```
 
 <div align="center">
   <img height="300" src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif?cid=82a1493bflzwzvyco8nayjbw5qjygrtml26o8oxey2712vvt&ep=v1_gifs_trending&rid=giphy.gif&ct=g"  />
