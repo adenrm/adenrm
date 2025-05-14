@@ -19,7 +19,7 @@ const id = {
                         mentor: ["Ahmad Istakim, A.Md.Kom S.Kom", "Arie Maulana", "Ardiansyah"],
                         major: "Software And Game Development"
                       },
-   hardSkill: ["Fullstack Developer", "Data Analytics", "Game Developer"]
+   hardSkill: ["Fullstack Developer", "Data Analytics", "Game Developer"],
    softSkill: ["Problem Solving", "Public Speaking"]
 }
 ```
